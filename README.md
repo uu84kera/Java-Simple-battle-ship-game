@@ -75,7 +75,3 @@ Initially, the development faced challenges due to lack of familiarity with Java
 ## Credits
 
 This project was inspired and developed as part of a learning exercise with the guidance of course instructors and online resources.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
